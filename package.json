@@ -1,0 +1,17 @@
+{
+  "name": "microservice-for-uploading",
+  "version": "1.0.0",
+  "description": "microsrvice for uploading files to the server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node.js",
+    "express",
+    "typescript",
+    "multer"
+  ],
+  "author": "Demion-L <pradovd4@gmail.com>",
+  "license": "ISC"
+}
